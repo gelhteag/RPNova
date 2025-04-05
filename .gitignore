@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+.env
+.env.*
+
+# VSCode & IDEs
+.vscode/
+.idea/
+*.swp
+
+# Docker
+**/.dockerignore
+docker-compose.override.yml
+
+# Logs
+*.log
+*.sqlite3
+*.pid
+
+# React (Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.DS_Store
+frontend/npm-debug.log
+frontend/yarn-debug.log
+frontend/yarn-error.log
+
+# MacOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# System files
+*.bak
+*.tmp
