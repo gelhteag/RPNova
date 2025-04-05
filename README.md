@@ -1,4 +1,4 @@
-# 📬 StackFlow: RPN Email Calculator
+# 📬 RPNova: RPN  Calculator
 
 A FastAPI-powered Reverse Polish Notation (RPN) calculator that computes math expressions from REST API calls, Gmail emails, or a vibey web UI. All operations are stored in PostgreSQL and can be exported to CSV. The app is containerized using Docker Compose for easy deployment.
 
@@ -35,8 +35,8 @@ A FastAPI-powered Reverse Polish Notation (RPN) calculator that computes math ex
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/stackflow-rpn.git
-cd stackflow-rpn
+git clone https://github.com/yourname/RPNova.git
+cd RPNova
 ```
 
 ### 2. Add a `.env` file
