@@ -35,7 +35,7 @@ A FastAPI-powered Reverse Polish Notation (RPN) calculator that computes math ex
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/RPNova.git
+git clone https://github.com/gelhteag/RPNova.git
 cd RPNova
 ```
 
