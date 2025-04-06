@@ -3,7 +3,7 @@
 A FastAPI-powered Reverse Polish Notation (RPN) calculator that computes math expressions from REST API calls, Gmail emails, or a vibey web UI. All operations are stored in PostgreSQL and can be exported to CSV. The app is containerized using Docker Compose for easy deployment.
 
 ---
-![RPNova Demo UI](images/gui.png)
+![RPNova Demo UI](images/rpnova_gui.png)
 ---
 ## 🚀 Features
 
